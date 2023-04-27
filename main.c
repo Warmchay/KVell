@@ -7,8 +7,15 @@ int main(int argc, char **argv) {
    /* Definition of the workload, if changed you need to erase the DB before relaunching */
    struct workload w = {
       .api = &YCSB,
-      .nb_items_in_db = 100000000LU,
-      .nb_load_injectors = 4,
+      //.nb_items_in_db = 100000000LU, //100G
+      //.nb_items_in_db = 155000000LU, //155G
+      //.nb_items_in_db = 210000000LU, //210G
+      //.nb_items_in_db = 265000000LU, //265G
+      //.nb_items_in_db = 320000000LU, //320G
+      //.nb_items_in_db = 375000000LU, //375G
+      //.nb_items_in_db = 430000000LU, //430G
+      .nb_items_in_db = 485000000LU, //485G
+      .nb_load_injectors = 8,
       //.nb_load_injectors = 12, // For scans (see scripts/run-aws.sh and OVERVIEW.md)
    };
 
@@ -44,9 +51,14 @@ int main(int argc, char **argv) {
    repopulate_db(&w);
 
    /* Launch benchs */
+   // bench_t workload, workloads[] = {
+   //    ycsb_a_uniform, ycsb_b_uniform, ycsb_c_uniform,
+   //    ycsb_a_zipfian, ycsb_b_zipfian, ycsb_c_zipfian,
+   //    //ycsb_e_uniform, ycsb_e_zipfian, // Scans
+   // };
    bench_t workload, workloads[] = {
-      ycsb_a_uniform, ycsb_b_uniform, ycsb_c_uniform,
-      ycsb_a_zipfian, ycsb_b_zipfian, ycsb_c_zipfian,
+      ycsb_b_uniform, ycsb_c_uniform,
+      ycsb_a_zipfian, ycsb_b_zipfian, ycsb_c_zipfian
       //ycsb_e_uniform, ycsb_e_zipfian, // Scans
    };
    foreach(workload, workloads) {

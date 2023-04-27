@@ -3,7 +3,7 @@
 
 #define DEBUG 0
 #define PINNING 1
-#define PATH "/scratch%lu/kvell/slab-%d-%lu-%lu"
+#define PATH "disks/disk%lu/slab-%d-%lu-%lu"
 
 /* In memory structures */
 #define RBTREE 0
@@ -15,16 +15,20 @@
 #define PAGECACHE_INDEX BTREE
 
 /* Queue depth management */
-#define QUEUE_DEPTH 64
+#define QUEUE_DEPTH 16
 #define MAX_NB_PENDING_CALLBACKS_PER_WORKER (4*QUEUE_DEPTH)
 #define NEVER_EXCEED_QUEUE_DEPTH 1 // Never submit more than QUEUE_DEPTH IO requests simultaneously, otherwise up to 2*MAX_NB_PENDING_CALLBACKS_PER_WORKER (very unlikely)
 #define WAIT_A_BIT_FOR_MORE_IOS 0 // If we realize we don't have QUEUE_DEPTH IO pending when submitting IOs, check again if new incoming requests have arrived. Boost performance a tiny bit for zipfian workloads on AWS, but really not worthwhile
 
 /* Page cache */
-//#define PAGE_CACHE_SIZE (PAGE_SIZE * 20480)
-#define PAGE_CACHE_SIZE (PAGE_SIZE * 7864320) //30GB
+//#define PAGE_CACHE_SIZE (PAGE_SIZE * 7864320) //30GB
+//#define PAGE_CACHE_SIZE (PAGE_SIZE * 6815744) //26GB
+//#define PAGE_CACHE_SIZE (PAGE_SIZE * 5767168) //22GB
+//#define PAGE_CACHE_SIZE (PAGE_SIZE * 4718592) //18GB
+//#define PAGE_CACHE_SIZE (PAGE_SIZE * 3670016) //14GB
 //#define PAGE_CACHE_SIZE (PAGE_SIZE * 2621440) //10GB
-//#define PAGE_CACHE_SIZE (PAGE_SIZE * 786432) //3GB
+//#define PAGE_CACHE_SIZE (PAGE_SIZE * 1572864) //6GB
+#define PAGE_CACHE_SIZE (PAGE_SIZE * 524288) //2GB
 #define MAX_PAGE_CACHE (PAGE_CACHE_SIZE / PAGE_SIZE)
 
 /* Free list */

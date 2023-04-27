@@ -1,0 +1,1246 @@
+
+ -- Flush log after processing 99999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.011154447489198594
+ioHitRatio: 0.038402318630558825
+wasteRatio: 0.0
+prefetchWasteRatio: 0
+hitPage: 3981
+missPage: 352917
+ioHit: 424
+ioMiss: 10617
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 199999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.018261898400824397
+ioHitRatio: 0.04364758964616481
+wasteRatio: 0.0
+prefetchWasteRatio: 0
+hitPage: 11962
+missPage: 643063
+ioHit: 919
+ioMiss: 20136
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 299999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.06541098681070509
+ioHitRatio: 0.0450305214918398
+wasteRatio: 0.0
+prefetchWasteRatio: 0
+hitPage: 117999
+missPage: 1685964
+ioHit: 2486
+ioMiss: 52721
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 399999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.047723635136075526
+ioHitRatio: 0.036805056201036974
+wasteRatio: 0.0
+prefetchWasteRatio: 0
+hitPage: 161162
+missPage: 3215823
+ioHit: 3890
+ioMiss: 101802
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 499999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.2044704247786269
+ioHitRatio: 0.17731559892474788
+wasteRatio: 0.0
+prefetchWasteRatio: 0.7169161513993706
+hitPage: 836200
+missPage: 3253389
+ioHit: 22823
+ioMiss: 105891
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 599999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.21173275432017638
+ioHitRatio: 0.1860740160034602
+wasteRatio: 0.0
+prefetchWasteRatio: 0.6537792526123878
+hitPage: 1083579
+missPage: 4034094
+ioHit: 27533
+ioMiss: 120435
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 699999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.24439452064070613
+ioHitRatio: 0.20109665100620555
+wasteRatio: 0.0
+prefetchWasteRatio: 0.5799735048110997
+hitPage: 1328163
+missPage: 4106341
+ioHit: 32017
+ioMiss: 127195
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 799999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.25222402971775604
+ioHitRatio: 0.20117567902546124
+wasteRatio: 0.0
+prefetchWasteRatio: 0.5480287599394339
+hitPage: 1701809
+missPage: 5045403
+ioHit: 39767
+ioMiss: 157906
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 899999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.24153974983553125
+ioHitRatio: 0.17707828720499214
+wasteRatio: 0.0
+prefetchWasteRatio: 0.5455187943393198
+hitPage: 2246967
+missPage: 7055713
+ioHit: 49348
+ioMiss: 229331
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 999999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.4117872880766529
+ioHitRatio: 0.3450831129419334
+wasteRatio: 0.0
+prefetchWasteRatio: 0.45951459359130703
+hitPage: 4943842
+missPage: 7061973
+ioHit: 121217
+ioMiss: 230052
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 1099999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.5137264745757018
+ioHitRatio: 0.47629510344451115
+wasteRatio: 0.0
+prefetchWasteRatio: 0.45824302973213854
+hitPage: 7461838
+missPage: 7063086
+ioHit: 209406
+ioMiss: 230250
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 1199999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.5996835044167477
+ioHitRatio: 0.5593589508437271
+wasteRatio: 0.0
+prefetchWasteRatio: 0.4572484015600896
+hitPage: 10586030
+missPage: 7066665
+ioHit: 292764
+ioMiss: 230628
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 1299999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.6492762879393759
+ioHitRatio: 0.6213329748216596
+wasteRatio: 0.0
+prefetchWasteRatio: 0.4565309876824913
+hitPage: 13087629
+missPage: 7069628
+ioHit: 378969
+ioMiss: 230960
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 1399999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.6918215498646766
+ioHitRatio: 0.661068618072179
+wasteRatio: 0.0
+prefetchWasteRatio: 0.4524739077269236
+hitPage: 15982000
+missPage: 7119333
+ioHit: 455391
+ioMiss: 233480
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 1499999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.7215362879569281
+ioHitRatio: 0.6954089066611805
+wasteRatio: 0.0
+prefetchWasteRatio: 0.4511243338150454
+hitPage: 18461423
+missPage: 7124848
+ioHit: 534065
+ioMiss: 233922
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 1599999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.73734315737979
+ioHitRatio: 0.7106059301710673
+wasteRatio: 0.0
+prefetchWasteRatio: 0.44859262899728386
+hitPage: 20028259
+missPage: 7134479
+ioHit: 577815
+ioMiss: 235315
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 1699999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.7408318676856227
+ioHitRatio: 0.7134129017345494
+wasteRatio: 0.0
+prefetchWasteRatio: 0.4346433171434613
+hitPage: 20465387
+missPage: 7159487
+ioHit: 592595
+ioMiss: 238053
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 1799999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.7467458998851791
+ioHitRatio: 0.7193771577899568
+wasteRatio: 0.0
+prefetchWasteRatio: 0.42920963836489817
+hitPage: 21169790
+missPage: 7179599
+ioHit: 617181
+ioMiss: 240757
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 1899999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.756416547778421
+ioHitRatio: 0.7304979130164487
+wasteRatio: 0.0
+prefetchWasteRatio: 0.4227139084401583
+hitPage: 22299740
+missPage: 7181027
+ioHit: 653323
+ioMiss: 241030
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 1999999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.7652735070921619
+ioHitRatio: 0.7405311939513054
+wasteRatio: 0.0
+prefetchWasteRatio: 0.417600070877705
+hitPage: 23435103
+missPage: 7188070
+ioHit: 689516
+ioMiss: 241594
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 2099999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.7687955206461069
+ioHitRatio: 0.7428907155653915
+wasteRatio: 0.0
+prefetchWasteRatio: 0.4090992039909943
+hitPage: 23947041
+missPage: 7201737
+ioHit: 704929
+ioMiss: 243971
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 2199999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.7758746087396118
+ioHitRatio: 0.7525428137003841
+wasteRatio: 0.0
+prefetchWasteRatio: 0.39959145020966597
+hitPage: 25430908
+missPage: 7346177
+ioHit: 752302
+ioMiss: 247378
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 2299999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.7908567443156612
+ioHitRatio: 0.7684613741651285
+wasteRatio: 0.0
+prefetchWasteRatio: 0.3978632489348145
+hitPage: 27794892
+missPage: 7350401
+ioHit: 823922
+ioMiss: 248249
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 2399999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.798373736235391
+ioHitRatio: 0.7799921492585071
+wasteRatio: 0.0
+prefetchWasteRatio: 0.3971057156015369
+hitPage: 30242853
+missPage: 7637718
+ioHit: 892187
+ioMiss: 251654
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 2499999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.8101478993290573
+ioHitRatio: 0.7931919112465792
+wasteRatio: 0.0
+prefetchWasteRatio: 0.3961687591470269
+hitPage: 32634483
+missPage: 7647647
+ioHit: 968059
+ioMiss: 252401
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 2599999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.8184109240559295
+ioHitRatio: 0.8007801089538524
+wasteRatio: 0.0
+prefetchWasteRatio: 0.3955792260344063
+hitPage: 34490195
+missPage: 7652687
+ioHit: 1017054
+ioMiss: 253025
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 2699999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.8244993617224925
+ioHitRatio: 0.8092957266643058
+wasteRatio: 0.0
+prefetchWasteRatio: 0.39413492562995206
+hitPage: 36799570
+missPage: 7833054
+ioHit: 1083231
+ioMiss: 255255
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 2799999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.8326241934403131
+ioHitRatio: 0.8179765317128836
+wasteRatio: 0.0
+prefetchWasteRatio: 0.39321914333260616
+hitPage: 39005660
+missPage: 7840997
+ioHit: 1151176
+ioMiss: 256170
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 2899999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.8416142108534849
+ioHitRatio: 0.8276343330965756
+wasteRatio: 0.0
+prefetchWasteRatio: 0.39297786938386825
+hitPage: 41670395
+missPage: 7842071
+ioHit: 1230487
+ioMiss: 256265
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 2999999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.8491453589483954
+ioHitRatio: 0.8359696702377213
+wasteRatio: 0.0
+prefetchWasteRatio: 0.39226742068954756
+hitPage: 44150457
+missPage: 7843535
+ioHit: 1306802
+ioMiss: 256415
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 3099999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.8530337588240899
+ioHitRatio: 0.8398054979058808
+wasteRatio: 0.0
+prefetchWasteRatio: 0.3915296684767785
+hitPage: 45531808
+missPage: 7844518
+ioHit: 1345056
+ioMiss: 256572
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 3199999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.8573577603183855
+ioHitRatio: 0.8445358914296878
+wasteRatio: 0.0
+prefetchWasteRatio: 0.3912850512400673
+hitPage: 47194730
+missPage: 7851987
+ioHit: 1396370
+ioMiss: 257047
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 3299999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.859856726458731
+ioHitRatio: 0.8473947350641315
+wasteRatio: 0.0
+prefetchWasteRatio: 0.3897738850761476
+hitPage: 48200599
+missPage: 7855948
+ioHit: 1429821
+ioMiss: 257493
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 3399999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.8613905034941404
+ioHitRatio: 0.8491563250875943
+wasteRatio: 0.0
+prefetchWasteRatio: 0.3192020247235493
+hitPage: 48824507
+missPage: 7856530
+ioHit: 1450010
+ioMiss: 257579
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 3499999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.8632432456513649
+ioHitRatio: 0.8512586551839351
+wasteRatio: 0.0
+prefetchWasteRatio: 0.2158964610117722
+hitPage: 49604721
+missPage: 7858481
+ioHit: 1475164
+ioMiss: 257757
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 3599999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.8663980858997783
+ioHitRatio: 0.8545969400693133
+wasteRatio: 0.0
+prefetchWasteRatio: 0.16258335877479974
+hitPage: 50980286
+missPage: 7861356
+ioHit: 1516525
+ioMiss: 258025
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 3699999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.8695452813237823
+ioHitRatio: 0.8575625062037476
+wasteRatio: 0.0
+prefetchWasteRatio: 0.15097336392384875
+hitPage: 52413987
+missPage: 7863480
+ioHit: 1555121
+ioMiss: 258299
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 3799999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.872505170004463
+ioHitRatio: 0.8611387012875812
+wasteRatio: 0.0
+prefetchWasteRatio: 0.15016348515433478
+hitPage: 53857740
+missPage: 7869963
+ioHit: 1609141
+ioMiss: 259479
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 3899999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.8777924372652528
+ioHitRatio: 0.8661704485531606
+wasteRatio: 0.0
+prefetchWasteRatio: 0.12208982947337577
+hitPage: 56540219
+missPage: 7871613
+ioHit: 1682006
+ioMiss: 259882
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 3999999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.8818696485999067
+ioHitRatio: 0.8705694926392615
+wasteRatio: 0.0
+prefetchWasteRatio: 0.12172747361013851
+hitPage: 58767311
+missPage: 7872142
+ioHit: 1748652
+ioMiss: 259978
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 4099999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.8850165543946183
+ioHitRatio: 0.8741213510367695
+wasteRatio: 0.0
+prefetchWasteRatio: 0.12065421600705889
+hitPage: 60602729
+missPage: 7873650
+ioHit: 1806891
+ioMiss: 260203
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 4199999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.8876595104440007
+ioHitRatio: 0.8761932676972964
+wasteRatio: 0.0
+prefetchWasteRatio: 0.11832532941364615
+hitPage: 62254386
+missPage: 7878796
+ioHit: 1850387
+ioMiss: 261461
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 4299999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.891768930836038
+ioHitRatio: 0.8806469886376076
+wasteRatio: 0.0
+prefetchWasteRatio: 0.10052712374373998
+hitPage: 64924718
+missPage: 7879700
+ioHit: 1930815
+ioMiss: 261681
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 4399999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.8957735543515325
+ioHitRatio: 0.8847567762570336
+wasteRatio: 0.0
+prefetchWasteRatio: 0.10039451963394662
+hitPage: 67733602
+missPage: 7881046
+ioHit: 2011061
+ioMiss: 261949
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 4499999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.8982029324325418
+ioHitRatio: 0.8874206861771381
+wasteRatio: 0.0
+prefetchWasteRatio: 0.0997108843585551
+hitPage: 69561927
+missPage: 7883742
+ioHit: 2069355
+ioMiss: 262521
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 4599999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.9004223217549541
+ioHitRatio: 0.8896488854858634
+wasteRatio: 0.0
+prefetchWasteRatio: 0.08496143646041959
+hitPage: 71398554
+missPage: 7895964
+ioHit: 2121640
+ioMiss: 263166
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 4699999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.9010320179233988
+ioHitRatio: 0.890297017385625
+wasteRatio: 0.0
+prefetchWasteRatio: 0.07399366328686376
+hitPage: 72209652
+missPage: 7931398
+ioHit: 2146929
+ioMiss: 264546
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 4799999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.9018430609559516
+ioHitRatio: 0.8911405043020562
+wasteRatio: 0.0
+prefetchWasteRatio: 0.06713253929237883
+hitPage: 73088464
+missPage: 7954976
+ioHit: 2172515
+ioMiss: 265389
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 4899999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.9037162286008217
+ioHitRatio: 0.8931660402618766
+wasteRatio: 0.0
+prefetchWasteRatio: 0.05991085502320156
+hitPage: 74696598
+missPage: 7958328
+ioHit: 2222917
+ioMiss: 265889
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 4999999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.9047776494275459
+ioHitRatio: 0.8943263193734023
+wasteRatio: 0.0
+prefetchWasteRatio: 0.05341166231659316
+hitPage: 75657650
+missPage: 7962508
+ioHit: 2253722
+ioMiss: 266300
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 5099999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.9061658654358641
+ioHitRatio: 0.8957329268373777
+wasteRatio: 0.0
+prefetchWasteRatio: 0.04898646045269956
+hitPage: 76932545
+missPage: 7966421
+ioHit: 2289926
+ioMiss: 266557
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 5199999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.9085026035942082
+ioHitRatio: 0.8982452269646675
+wasteRatio: 0.0
+prefetchWasteRatio: 0.04526274400913136
+hitPage: 79102991
+missPage: 7966645
+ioHit: 2353195
+ioMiss: 266574
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 5299999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.9107129804721853
+ioHitRatio: 0.9007402807206446
+wasteRatio: 0.0
+prefetchWasteRatio: 0.041967810573887966
+hitPage: 81261198
+missPage: 7966912
+ioHit: 2419274
+ioMiss: 266599
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 5399999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.9123690934023904
+ioHitRatio: 0.9026061852567341
+wasteRatio: 0.0
+prefetchWasteRatio: 0.039041530341498945
+hitPage: 82953972
+missPage: 7967534
+ioHit: 2471185
+ioMiss: 266648
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 5499999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.914278509383308
+ioHitRatio: 0.9046457102011962
+wasteRatio: 0.0
+prefetchWasteRatio: 0.03648743165644616
+hitPage: 84980923
+missPage: 7967694
+ioHit: 2529953
+ioMiss: 266670
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 5599999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.9162477777012312
+ioHitRatio: 0.9068142515351293
+wasteRatio: 0.0
+prefetchWasteRatio: 0.03429216825261103
+hitPage: 87166864
+missPage: 7967734
+ioHit: 2595131
+ioMiss: 266680
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 5699999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.918108316234428
+ioHitRatio: 0.9088191616504443
+wasteRatio: 0.0
+prefetchWasteRatio: 0.032373791668070105
+hitPage: 89332468
+missPage: 7968108
+ioHit: 2658456
+ioMiss: 266720
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 5799999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.9193719672680696
+ioHitRatio: 0.9101084218595992
+wasteRatio: 0.0
+prefetchWasteRatio: 0.030635562663146803
+hitPage: 90863647
+missPage: 7968654
+ioHit: 2700815
+ioMiss: 266760
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 5899999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.9212343774836119
+ioHitRatio: 0.912270691606808
+wasteRatio: 0.0
+prefetchWasteRatio: 0.029208474117946158
+hitPage: 93200767
+missPage: 7968674
+ioHit: 2774009
+ioMiss: 266765
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 5999999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.9227943663790548
+ioHitRatio: 0.9138481977956894
+wasteRatio: 0.0
+prefetchWasteRatio: 0.0278093719400268
+hitPage: 95245928
+missPage: 7968755
+ioHit: 2829794
+ioMiss: 266775
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 6099999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.9236835631684936
+ioHitRatio: 0.9148800823429477
+wasteRatio: 0.0
+prefetchWasteRatio: 0.026540126654383673
+hitPage: 96458925
+missPage: 7969614
+ioHit: 2869203
+ioMiss: 266949
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 6199999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.9251540422996092
+ioHitRatio: 0.9165012433330332
+wasteRatio: 0.0
+prefetchWasteRatio: 0.02542903207271063
+hitPage: 98514462
+missPage: 7969926
+ioHit: 2930839
+ioMiss: 267017
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 6299999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.9261173601784288
+ioHitRatio: 0.9176388182494208
+wasteRatio: 0.0
+prefetchWasteRatio: 0.024360999344914456
+hitPage: 99903622
+missPage: 7969987
+ioHit: 2975175
+ioMiss: 267032
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 6399999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.927083810117364
+ioHitRatio: 0.9187116354321565
+wasteRatio: 0.0
+prefetchWasteRatio: 0.023401986709992967
+hitPage: 101334322
+missPage: 7970059
+ioHit: 3018055
+ioMiss: 267040
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 6499999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.928347554239272
+ioHitRatio: 0.9202802221405583
+wasteRatio: 0.0
+prefetchWasteRatio: 0.022509800627214065
+hitPage: 103262294
+missPage: 7970071
+ioHit: 3082728
+ioMiss: 267043
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 6599999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.9297197075474782
+ioHitRatio: 0.9217925095203567
+wasteRatio: 0.0
+prefetchWasteRatio: 0.02161277090023933
+hitPage: 105443071
+missPage: 7970757
+ioHit: 3147726
+ioMiss: 267062
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 6699999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.9312665832913072
+ioHitRatio: 0.9234480671274667
+wasteRatio: 0.0
+prefetchWasteRatio: 0.0208370133726642
+hitPage: 107998534
+missPage: 7970981
+ioHit: 3221914
+ioMiss: 267090
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 6799999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.9322095645054196
+ioHitRatio: 0.9244247287353128
+wasteRatio: 0.0
+prefetchWasteRatio: 0.02007119262819041
+hitPage: 109614118
+missPage: 7971157
+ioHit: 3267345
+ioMiss: 267118
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 6899999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.9327983662079882
+ioHitRatio: 0.924946851564504
+wasteRatio: 0.0
+prefetchWasteRatio: 0.01940940684163021
+hitPage: 110648309
+missPage: 7971441
+ioHit: 3292229
+ioMiss: 267142
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 6999999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.933786774997265
+ioHitRatio: 0.9260448140269094
+wasteRatio: 0.0
+prefetchWasteRatio: 0.018774261061896978
+hitPage: 112421112
+missPage: 7971589
+ioHit: 3345323
+ioMiss: 267162
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 7099999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.9344870673570348
+ioHitRatio: 0.9268398277881867
+wasteRatio: 0.0
+prefetchWasteRatio: 0.01813047061568723
+hitPage: 113708206
+missPage: 7971601
+ioHit: 3384617
+ioMiss: 267165
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 7199999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.9349819867308398
+ioHitRatio: 0.9275142987419058
+wasteRatio: 0.0
+prefetchWasteRatio: 0.0174854968268372
+hitPage: 114716937
+missPage: 7977338
+ioHit: 3423510
+ioMiss: 267549
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 7299999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.9357060927133094
+ioHitRatio: 0.9283945007404744
+wasteRatio: 0.0
+prefetchWasteRatio: 0.016967166161964448
+hitPage: 116109543
+missPage: 7978078
+ioHit: 3469219
+ioMiss: 267575
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 7399999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.937039893088621
+ioHitRatio: 0.9299240286475036
+wasteRatio: 0.0
+prefetchWasteRatio: 0.01647720539314095
+hitPage: 118739154
+missPage: 7978134
+ioHit: 3550834
+ioMiss: 267579
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 7499999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.9382946760903573
+ioHitRatio: 0.9312728907152947
+wasteRatio: 0.0
+prefetchWasteRatio: 0.01598710374211044
+hitPage: 121316934
+missPage: 7978198
+ioHit: 3625911
+ioMiss: 267589
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 7599999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.9395756140958167
+ioHitRatio: 0.9327045168708359
+wasteRatio: 0.0
+prefetchWasteRatio: 0.015541804711155571
+hitPage: 124057989
+missPage: 7978206
+ioHit: 3708768
+ioMiss: 267591
+wastePage:0
+wastePagePoped:0
+
+
+
+ -- Flush log after processing 7699999 requests. 
+
+lruCache: 5242880
+pageHitRatio: 0.9406215099977094
+ioHitRatio: 0.9338763514087862
+wasteRatio: 0.0
+prefetchWasteRatio: 0.015117512169148608
+hitPage: 126384141
+missPage: 7978235
+ioHit: 3779293
+ioMiss: 267595
+wastePage:0
+wastePagePoped:0
+
+
+lruCache: 5242880
+pageHitRatio: 0.941491439886954
+ioHitRatio: 0.934843718080668
+wasteRatio: 0.0
+prefetchWasteRatio: 0.014720348348065296
+hitPage: 128382541
+missPage: 7978275
+ioHit: 3839434
+ioMiss: 267599
+wastePage:0
+wastePagePoped:0
+
+
+Time Consumption: 967.959
